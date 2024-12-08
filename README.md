@@ -1,4 +1,4 @@
-## Hi DegsOne 👋
+## Hola mi nombre es Diego Melendez Barriga, pero me dicen DegsOne 👋
 
 <!--
 **DegsOne/DegsOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
